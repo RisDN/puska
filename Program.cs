@@ -1,3 +1,4 @@
+// Sima csere
 int tempCm;
 string tempNev;
 for(int i = 0; i < cm.Length; i++) {
@@ -19,6 +20,7 @@ for(int i = 0; i < cm.Length; i++) {
     }
 }
 
+// Buborék vagy miafasz
 int ll = lista.Length;
 int csere2;
 
